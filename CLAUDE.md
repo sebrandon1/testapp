@@ -23,6 +23,23 @@ go run main.go
 go test ./...
 ```
 
+### Install Dependencies
+```bash
+go mod download
+```
+
+## Architecture
+
+Single-file application with `main.go` at the repository root. Uses the Cobra CLI framework for command-line handling.
+
+## Requirements
+
+- Go 1.17+
+
+## Dependencies
+
+- `github.com/spf13/cobra` - CLI framework
+
 ## Code Style
 
 - Follow standard Go conventions and formatting
