@@ -1,6 +1,6 @@
 module testapp
 
-go 1.26.2
+go 1.26.1
 
 require github.com/spf13/cobra v1.4.0
 
