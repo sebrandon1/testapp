@@ -34,7 +34,7 @@ Single-file application with `main.go` at the repository root. Uses the Cobra CL
 
 ## Requirements
 
-- Go 1.17+
+- Go 1.26+
 
 ## Dependencies
 
