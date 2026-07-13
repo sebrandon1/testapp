@@ -2,7 +2,7 @@ module testapp
 
 go 1.26
 
-toolchain go1.26.3
+toolchain go1.26.5
 
 require github.com/spf13/cobra v1.4.0
 
